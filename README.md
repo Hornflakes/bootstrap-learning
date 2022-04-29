@@ -2,5 +2,5 @@
 
 ### Built with Bootstrap, no functionality
 
-##Preview
+## Preview
 ![screenshot](https://i.imgur.com/3sdgCmp.png)
